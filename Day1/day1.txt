@@ -1,0 +1,6 @@
+Learned about :-
+1. Variables and Input/Output 
+2. Operators
+3. If Else & Switch Statement
+4. For,While & Do-While Loops
+5. Pattern Printing
